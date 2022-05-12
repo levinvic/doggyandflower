@@ -1,6 +1,6 @@
 {
-    "name": "provider_test",
-    "short_name": "provider_test",
+    "name": "pos_system_flutter",
+    "short_name": "pos_system_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
