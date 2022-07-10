@@ -66365,7 +66365,7 @@ r.k2=!0
 r.K()
 s.a.c.r1.sbQ(0,"")
 s.a.c.k4.sbQ(0,"1")
-s.a.c.k3.sbQ(0,"100")
+s.a.c.k3.sbQ(0,"135")
 s.a.c.rx.sbQ(0,"0")
 s.a.c.r2.sbQ(0,"100")
 r=s.a.c
@@ -66981,7 +66981,7 @@ aG(){var s=this
 s.b1()
 s.a.c.CU()
 A.aV("\u5237\u65b0\u6642\u9593")
-s.a.c.k3.sbQ(0,"100")
+s.a.c.k3.sbQ(0,"135")
 s.a.c.k4.sbQ(0,"1")},
 G(a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2=this,a3=null,a4="resultData",a5="_uiSize",a6="_screenHeight",a7=A.aQ(J.A($.br.bD().a,"class"))
 a7.toString
