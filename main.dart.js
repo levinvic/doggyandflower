@@ -69012,7 +69012,7 @@ return}s=0
 try{s=A.d_($.ajs,null)}catch(q){m=A.a(o.d,n)
 m.b="\u4f4e\u6d88\u8acb\u8f38\u5165\u6578\u5b57"
 m.H()
-return}if(s>=A.a(o.d,n).id){m=A.a(o.d,n)
+return}if(s>A.a(o.d,n).id){m=A.a(o.d,n)
 m.b="\u4f4e\u6d88\u672a\u9054\u9700\u6c42"
 m.H()
 return}j=A.a(o.d,n)
